@@ -10,7 +10,7 @@
     "axios": "^0.19.1",
     "bootstrap-vue": "^2.2.0",
     "core-js": "^3.4.4",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "nord": "^0.2.1",
     "sass-loader": "^8.0.1",
     "vue": "^2.6.10",
